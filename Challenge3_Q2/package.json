@@ -1,0 +1,14 @@
+{
+  "name": "challenge3_q2",
+  "version": "0.0.0",
+  "description": "Challenge3_Q2",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
